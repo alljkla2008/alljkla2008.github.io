@@ -4,18 +4,7 @@
 
 //GitHub@YuanHsing 缝合小黄瓜规则精简自用版
 
-//第一部分——jar爬虫：取自YH  
-# 03.🥒 (非官方) 小黄瓜大佬 XBiubiuLA.jar:
-# Github --> https://github.com/lite-cucumber/CatVodTVSpider
-# 套Biubiu+LiteApple规则
-"spider":"https://yoyodadada.github.io/OneClickRun/MeowXB/XBiubiuLA2.jar",
-//"spider":"img+https://inews.gtimg.com/newsapp_ls/0/14940316852/0.jiketuchuang.png",
 
-//第二部分——数据源：取自YH
-"sites":[
-{"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
-{"key":"csp_Kunyu77","name":"七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Buka","name":"真不卡(SP)","type":3,"api":"csp_Buka","searchable":1,"quickSearch":1,"filterable":1},
 
 ## 03.🥒(非官方)小黄瓜大佬 套Biubiu+LiteApple规则
 ## --> spider 改 "spider":"https://yoyodadada.github.io/OneClickRun/MeowXB/XBiubiuLA2.jar",
