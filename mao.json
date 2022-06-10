@@ -10,16 +10,17 @@
 # 套Biubiu+LiteApple规则
 
 "spider": "https://wuji888.coding.net/p/mao/d/mao/git/raw/master/custom_spider.jar",
-"sites":[
-{"key":"csp_appysv2_迪迪影视","name":"迪迪影视〔Z〕","type":3,"api":"csp_AppYsV2"    ,"searchable":1,"quickSearch":0,"filterable":1,"ext":"http://dd88.icu:6080/xgapp.php/v2/"}
-],
-
-
 "spider":"https://yoyodadada.github.io/OneClickRun/MeowXB/XBiubiuLA2.jar",
 "sites":[
+{"key":"csp_appysv2_迪迪影视","name":"迪迪影视〔Z〕","type":3,"api":"csp_AppYsV2"    ,"searchable":1,"quickSearch":0,"filterable":1,"ext":"http://dd88.icu:6080/xgapp.php/v2/"},
+ 
+  
 {"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
 {"key":"csp_Kunyu77","name":"七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1}
 ],
+
+
+
 
 
 
