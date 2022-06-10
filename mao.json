@@ -31,8 +31,8 @@
 ],
 
 
-"spider1":"https://yoyodadada.github.io/OneClickRun/MeowXB/XBiubiuLA2.jar",
-"sites1":[
+"spider":"https://yoyodadada.github.io/OneClickRun/MeowXB/XBiubiuLA2.jar",
+"sites":[
 
 {"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
 {"key":"csp_Kunyu77","name":"七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
