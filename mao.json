@@ -10,7 +10,7 @@
 # 套Biubiu+LiteApple规则
 
 "spider": "https://wuji888.coding.net/p/mao/d/mao/git/raw/master/custom_spider.jar",
-"spider":"https://yoyodadada.github.io/OneClickRun/MeowXB/XBiubiuLA2.jar",
+
 //"spider":"img+https://inews.gtimg.com/newsapp_ls/0/14940316852/0.jiketuchuang.png",
 
 //第二部分——数据源：取自YH
@@ -21,6 +21,19 @@
 ## --> spider 改 "spider":"https://yoyodadada.github.io/OneClickRun/MeowXB/XBiubiuLA2.jar",
 {"key":"csp_appysv2_迪迪影视","name":"迪迪影视〔Z〕","type":3,"api":"csp_AppYsV2"    ,"searchable":1,"quickSearch":0,"filterable":1,"ext":"http://dd88.icu:6080/xgapp.php/v2/"},
 
+
+  
+  
+  
+//第二plus部分——固定数据源
+## 结尾代码
+{"key":"csp_结尾代码","name":"结尾代码（勿选）","type":3,"api":"csp_结尾代码","searchable":0,"quickSearch":0,"filterable":0}
+],
+
+
+"spider1":"https://yoyodadada.github.io/OneClickRun/MeowXB/XBiubiuLA2.jar",
+"sites1":[
+
 {"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
 {"key":"csp_Kunyu77","name":"七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Buka","name":"真不卡(SP)","type":3,"api":"csp_Buka","searchable":1,"quickSearch":1,"filterable":1},
@@ -30,14 +43,33 @@
 {"key":"csp_biubiu_555电影","name":"🥒555电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yoyodadada.github.io/OneClickRun/MeowXB/555电影.json"},
 {"key":"csp_biubiu_哔嘀影视","name":"🥒哔嘀影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yoyodadada.github.io/OneClickRun/MeowXB/哔嘀影视.json"},
 {"key":"csp_biubiu_98播播网","name":"🥒98播播网(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yoyodadada.github.io/OneClickRun/MeowXB/98播播网.json"},
-{"key":"csp_biubiu_大师兄影视","name":"🥒大师兄影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yoyodadada.github.io/OneClickRun/MeowXB/大师兄影视.json"},  
-  
-  
-  
-//第二plus部分——固定数据源
-## 结尾代码
-{"key":"csp_结尾代码","name":"结尾代码（勿选）","type":3,"api":"csp_结尾代码","searchable":0,"quickSearch":0,"filterable":0}
+{"key":"csp_biubiu_大师兄影视","name":"🥒大师兄影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yoyodadada.github.io/OneClickRun/MeowXB/大师兄影视.json"}
+
 ],
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 //第三部分——直播：取自YH
 # 直播
