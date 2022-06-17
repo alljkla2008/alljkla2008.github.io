@@ -976,50 +976,6 @@ https://netcut.cn/gp1
             }
         },
       {"name":"4K影院","type":1,"url":"http://47.100.138.210:91/home/api?type=ys&uid=7593435&key=ehortuyAHMNQTWX457&url=","ext":{"flag":["qiyi","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","mgtv","芒果"]}},
-    {
-      "name": "03",
-      "type": 1,
-      "url": "https://jx.xuanqi.pro/?url="
-    },
-{
-      "name": "06",
-      "type": 1,
-      "url": "http://app.jhys.top/1080kan/fuck.php?url="
-    },
-  {
-            "name": "飓风影视",
-            "type": 1,
-            "url": "https://vvip.funsline.cn/api/?key=MPbC1MDs0vP0cKKOoV&url=",
-            "ext": {
-                "flag": [
-                    "youku",
-                    "优酷",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "qq",
-                    "腾讯"
-                ]
-            }
-        },
-        {
-            "name": "喵派3",
-            "type": 0,
-            "url": "https://miaoparty.com/dmplay/?url=",
-            "ext": {
-                "flag": [
-                    "ltnb",
-                    "renrenmi",
-                    "miaoparty",
-                    "miaoparty2",
-                    "miaoparty3",
-                    "rx",
-                    "rongxing",
-                    "xueren",
-                    "xfy"
-                ]
-            }
-        },
 {
             "name": "追剧猫",
             "type": 0,
@@ -1066,31 +1022,7 @@ https://netcut.cn/gp1
                     "sohu"
                 ]
             }
-        },
-{
-		"name": "猫群专用4",
-		"type": 0,
-		"url": "https://play.tkys.tv/jh/longteng.php/?url="
-	},  
-	{
-		"name": "猫群专用7",
-		"type": 1,
-		"url": "https://ysjx.jikezhuji.com/api/?key=80gdewY7tQriIwA6hw&url="
-	}, 
-
-
-
-
-
-
-
-
-
-
-
-{"name":"粉象视界","type":1,"url":"http://47.100.138.210:91/home/api?type=ys&uid=4476440&key=eghkvwxyFHORVX3478&url=","ext":{"flag":["mgtv","芒果","renrenmi","youku","优酷","qiyi","爱奇艺","奇艺"]}},
-{"name":"虎猫视频","type":1,"url":"https://humaosp.com/json.php?url=","ext":{"flag":["qq","腾讯"]}},
-{"name":"DC影视","type":1,"url":"https://jb.vjiangbei.com/home/api?type=ys&uid=2219260&key=bcdjqBEFGLMPW01457&url=","ext":{"flag":["ziqie","ltnb","qq","腾讯"]}}
+        }
 
     
     
