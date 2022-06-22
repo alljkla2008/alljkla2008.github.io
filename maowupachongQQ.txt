@@ -1161,7 +1161,7 @@ https://netcut.cn/gp1
     "reverseOrder": false
   },
   {
-    "id": 1
+    
     "key": "*草莓资源",
     "name": "*草莓资源",
 	"type": 0,
