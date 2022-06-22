@@ -1160,7 +1160,17 @@ https://netcut.cn/gp1
     "status": "可用",
     "reverseOrder": false
   },
-
+  {
+    "id": 1
+    "key": "*草莓资源",
+    "name": "*草莓资源",
+	"type": 0,
+    "api": "https://caiji.caomeiapi.com/inc/api.php",
+    "group": "#18+",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": false
+  },
 	
 	
 	
@@ -1219,24 +1229,39 @@ https://netcut.cn/gp1
 
 
 
-
-
-
 {
-      "key": "空白尾页（没有数据）",
-      "name": "空白尾页（没有数据）",
+      "key": "空白尾页1（没有数据）",
+      "name": "空白尾页1（没有数据）",
 "type": 2,
 "api": "7gxke5P9eFZoVV"
     },
 {
-      "key": "空白尾页（没有数据）",
-      "name": "空白尾页（没有数据）",
+      "key": "空白尾页2（没有数据）",
+      "name": "空白尾页2（没有数据）",
 "type": 2,
 "api": "7gxke5P9eFZoVV"
     },
 {
-      "key": "空白尾页（没有数据）",
-      "name": "空白尾页（没有数据）",
+      "key": "空白尾页3（没有数据）",
+      "name": "空白尾页3（没有数据）",
+"type": 2,
+"api": "7gxke5P9eFZoVV"
+    },
+{
+      "key": "空白尾页4（没有数据）",
+      "name": "空白尾页4（没有数据）",
+"type": 2,
+"api": "7gxke5P9eFZoVV"
+    },
+{
+      "key": "空白尾页5（没有数据）",
+      "name": "空白尾页5（没有数据）",
+"type": 2,
+"api": "7gxke5P9eFZoVV"
+    },
+{
+      "key": "空白尾页6（没有数据）",
+      "name": "空白尾页6（没有数据）",
 "type": 2,
 "api": "7gxke5P9eFZoVV"
     }
