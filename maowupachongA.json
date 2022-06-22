@@ -883,8 +883,8 @@ https://netcut.cn/gp1
       "name": "🈲葡萄🔞",
       "type": 1,
       "api": "https://api.putaozy.net/inc/apijson_vod.php",
-      "searchable": 0,
-      "quickSearch": 0,
+      "searchable": 1,
+      "quickSearch": 1,
       "filterable": 0
     },
     {
@@ -1111,8 +1111,8 @@ https://netcut.cn/gp1
       "name": "🈲哥哥妹妹🔞",
       "type": 0,
       "api": "http://www.ggmmzy.com:9999/inc/xml",
-      "searchable": 0,
-      "quickSearch": 0,
+      "searchable": 1,
+      "quickSearch": 1,
       "filterable": 0
     },
     {
@@ -1120,8 +1120,8 @@ https://netcut.cn/gp1
       "name": "🈲AVZY🔞",
       "type": 1,
       "api": "http://m.7777688.com/inc/apijson.php",
-      "searchable": 0,
-      "quickSearch": 0,
+      "searchable": 1,
+      "quickSearch": 1,
       "filterable": 0
     },
   
