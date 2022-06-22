@@ -617,8 +617,8 @@ https://netcut.cn/gp1
 			"name": "📽︎飞速[晴园_公众号]",
 			"type": 1,
 			"api": "https://www.feisuzy.com/api.php/provide/vod/",
-			"searchable": 0,
-			"quickSearch": 0
+			"searchable": 1,
+			"quickSearch": 1
 		},
 	
 		
